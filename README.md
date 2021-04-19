@@ -8,7 +8,7 @@ cd React-Typescript-Webpack
 yarn (or npm install)
 
 # Start development server
-yarn start (or npm run dev)
+yarn dev (or npm run dev)
 
 # Build for production
 yarn build (or npm run build)

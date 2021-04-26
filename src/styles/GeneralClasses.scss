@@ -45,3 +45,10 @@
     font-size: 1.1em;
     border-bottom: 1px solid rgb(189, 189, 189) !important;
 }
+
+.big-card-image {
+    width: 40%;
+    margin: 2em auto;
+    border-radius: 10px;
+    object-fit: contain;
+}

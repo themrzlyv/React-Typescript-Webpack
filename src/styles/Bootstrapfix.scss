@@ -3,7 +3,8 @@ select {
     background-color: transparent !important;
 }
 
-select:focus, input:focus {
+select:focus, input:focus, button:focus {
+    box-shadow: none !important;
     outline: none !important;
 }
 
@@ -15,4 +16,8 @@ input {
 
 input::placeholder {
     font-style: italic;
+}
+
+a {
+    text-decoration: none !important;
 }
